@@ -95,17 +95,13 @@
 
 ![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KaroliniRPedrozo&theme=aura&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=KaroliniRPedrozo&theme=aura&hide_border=false)
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Troféus
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KaroliniRPedrozo&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Repositórios Contribuídos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=KaroliniRPedrozo&limit=5&theme=aura&combine_all_yearly_contributions=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KaroliniRPedrozo&theme=darkhub&no-frame=true&margin-w=4)
 
 ---
 
