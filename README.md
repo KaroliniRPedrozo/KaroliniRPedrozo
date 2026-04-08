@@ -14,7 +14,7 @@
   <a href="https://www.reddit.com/user/Lopsided-Comfort-840/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
   </a>
-  <a href="mailto:karolini188@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#5e353f2c31323730376f66661e39333f3732703d3133">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -101,10 +101,9 @@
 
 ## 🏆 Troféus
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KaroliniRPedrozo&theme=darkhub&no-frame=true&margin-w=4)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=KaroliniRPedrozo&theme=darkhub&no-frame=true&margin-w=4)
 
 ---
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=KaroliniRPedrozo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/karolinirp)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logo
