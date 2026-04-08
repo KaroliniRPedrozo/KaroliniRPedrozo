@@ -99,11 +99,4 @@
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Troféus
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=KaroliniRPedrozo&theme=darkhub&no-frame=true&margin-w=4)
-
 ---
-
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logo
