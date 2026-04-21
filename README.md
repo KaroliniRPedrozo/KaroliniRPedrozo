@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlxZjh1aXIycG4yeW5wdDlhODJsbnM3ZXg5ZDA2NmZoczYxc3NydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GERuyQsnilWYN818BA/giphy.gif" width="180" alt="Sticker Animado">
+</div>
 <h1 align="center">Olá, eu sou a Karolini 👋</h1>
 
 <p align="center">
