@@ -96,10 +96,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KaroliniRPedrozo&theme=aura&hide_border=false)
+<br>
 
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KaroliniRPedrozo&theme=aura&hide_border=false" alt="GitHub Streak" height="150" />
+</div>
 
 ---
