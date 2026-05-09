@@ -4,7 +4,7 @@
 <h1 align="center">Olá, eu sou a Karolini 👋</h1>
 
 <p align="center">
-  Estudante de TIC na UFSC · Desenvolvedora de software · Explorando novas tecnologias
+  Estudante de TIC na UFSC · Explorando novas tecnologias
 </p>
 
 <p align="center">
