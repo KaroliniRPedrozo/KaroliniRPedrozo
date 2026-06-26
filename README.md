@@ -32,7 +32,7 @@ Como investigadora e programadora ativa no **LabTec (Laboratório de Tecnologia 
 <table width="100%">
   <tr>
     <td>
-      <h3>📊 <a href="https://github.com/KaroliniRPedrozo/CyphersAnalyticsFull" target="_blank">Cypher's Analytics — Full Stack Ecosystem</a></h3>
+      <h3>📊 <a href="https://github.com/KaroliniRPedrozo/CyphersAnalytics" target="_blank">Cypher's Analytics — Full Stack Ecosystem</a></h3>
       <p>Plataforma corporativa ponta a ponta para centralização, processamento analítico e mineração de fluxos de dados massivos.</p>
       <ul>
         <li><strong>Arquitetura Backend:</strong> Desenvolvida em <code>.NET</code> e <code>C#</code> sob os padrões de <em>Clean Architecture</em>, isolamento de domínios, injeção de dependências e APIs RESTful assíncronas.</li>
@@ -40,7 +40,7 @@ Como investigadora e programadora ativa no **LabTec (Laboratório de Tecnologia 
         <li><strong>Camada de Persistência:</strong> Modelação relacional avançada, desenho de índices e otimização de consultas complexas em base de dados <code>PostgreSQL</code>.</li>
       </ul>
       <p align="right">
-        <a href="https://github.com/KaroliniRPedrozo/CyphersAnalyticsFull" target="_blank">
+        <a href="https://github.com/KaroliniRPedrozo/CyphersAnalytics" target="_blank">
           <img src="https://img.shields.io/badge/Analisar_Código_Fonte_-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="Repositório Cypher" />
         </a>
       </p>
