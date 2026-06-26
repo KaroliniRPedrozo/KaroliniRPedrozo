@@ -21,9 +21,7 @@
 
 ## ⚡ Resumo Executivo
 
-Sou engenheira de software em consolidação e designer de sistemas orientada para o desenvolvimento de soluções robustas de backend, interfaces de utilizador escaláveis e modelação de dados complexos. Atualmente, frequento a licenciatura em **Tecnologias da Informação e Comunicação (TIC)** na **Universidade Federal de Santa Catarina (UFSC)**, com conclusão prevista para 2026.
-
-Como investigadora e programadora ativa no **LabTec (Laboratório de Tecnologia da Computação)**, participo diretamente no ciclo de vida completo de sistemas aplicados, convertendo requisitos institucionais complexos em arquiteturas de software eficientes, seguras e com elevada usabilidade.
+Sou Programadora de software em consolidação e designer de sistemas orientada para o desenvolvimento de soluções robustas de backend, interfaces de utilizador escaláveis e modelação de dados complexos. Atualmente, frequento a licenciatura em **Tecnologias da Informação e Comunicação (TIC)** na **Universidade Federal de Santa Catarina (UFSC)**, com conclusão prevista para 2026.
 
 ---
 
