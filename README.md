@@ -25,7 +25,7 @@ Sou Programadora de software em consolidação e designer de sistemas orientada 
 
 ---
 
-## 🚀 Projetos de Engenharia em Destaque
+## 🚀 Projetos em Destaque
 
 <table width="100%">
   <tr>
