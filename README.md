@@ -47,14 +47,14 @@ Sou Programadora de software em consolidação e designer de sistemas orientada 
 
   <tr>
     <td>
-      <h3>🤖 <a href="https://github.com/KaroliniRPedrozo/Chatbot-Educacional" target="_blank">Chatbot Educacional Integrado</a></h3>
+      <h3>🤖 <a href="https://github.com/KaroliniRPedrozo/ChronosBot" target="_blank">Chatbot Educacional Integrado</a></h3>
       <p>Solução inteligente de tecnologia educacional (EdTech) desenhada para automatizar e otimizar processos de ensino-aprendizagem e suporte ao estudante.</p>
       <ul>
         <li><strong>Core Engine:</strong> Desenvolvimento de árvores de decisão estruturadas e lógica computacional para processamento de interações focadas na experiência do utilizador.</li>
         <li><strong>Foco em TIC:</strong> Aplicação rigorosa de conceitos de arquitetura de informação, acessibilidade e usabilidade em interfaces conversacionais aplicadas ao ecossistema académico.</li>
       </ul>
       <p align="right">
-        <a href="https://github.com/KaroliniRPedrozo/Chatbot-Educacional" target="_blank">
+        <a href="https://github.com/KaroliniRPedrozo/ChronosBot" target="_blank">
           <img src="https://img.shields.io/badge/Analisar_Código_Fonte_-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="Repositório Chatbot" />
         </a>
       </p>
