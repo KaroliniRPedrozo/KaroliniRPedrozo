@@ -21,7 +21,7 @@
 
 ## ⚡ Resumo Executivo
 
-Programadora de software em consolidação e designer de sistemas orientada para o desenvolvimento de soluções robustas de backend, interfaces de utilizador escaláveis e modelação de dados complexos. Atualmente, frequento a licenciatura em **Tecnologias da Informação e Comunicação (TIC)** na **Universidade Federal de Santa Catarina (UFSC)**, com conclusão prevista para 2026.
+Programadora de software em consolidação e designer de sistemas orientada para o desenvolvimento de soluções robustas de backend, interfaces de utilizador escaláveis e modelação de dados complexos. Atualmente, estudante de **Tecnologias da Informação e Comunicação (TIC)** na **Universidade Federal de Santa Catarina (UFSC)**, com conclusão prevista para 2026.
 
 ---
 
