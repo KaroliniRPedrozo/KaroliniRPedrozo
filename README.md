@@ -47,7 +47,7 @@ Programadora de software em consolidação e designer de sistemas orientada para
 
   <tr>
     <td>
-      <h3>🤖 <a href="https://github.com/KaroliniRPedrozo/ChronosBot" target="_blank">Chatbot Educacional Integrado</a></h3>
+      <h3>🤖 <a href="https://github.com/KaroliniRPedrozo/ChronosBot" target="_blank">ChronosBot - Chatbot Educacional Integrado</a></h3>
       <p>Solução inteligente de tecnologia educacional (EdTech) desenhada para automatizar e otimizar processos de ensino-aprendizagem e suporte ao estudante.</p>
       <ul>
         <li><strong>Core Engine:</strong> Desenvolvimento de árvores de decisão estruturadas e lógica computacional para processamento de interações focadas na experiência do utilizador.</li>
