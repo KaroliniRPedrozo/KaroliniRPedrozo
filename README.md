@@ -89,12 +89,12 @@ Programadora de software em consolidação e designer de sistemas, focada em bac
 ### 📊 Métricas & Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" height="165" />
+  <img src="./profile/stats.svg" alt="Estatísticas Gerais" height="165" />
+  <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="165" />
   <br>
   <img src="https://streak-stats.demolab.com?user=KaroliniRPedrozo&theme=aura&hide_border=false" alt="Streak" height="165" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=KaroliniRPedrozo&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="./profile/trophy.svg" alt="Trophies" />
 </div>
 
 ---
