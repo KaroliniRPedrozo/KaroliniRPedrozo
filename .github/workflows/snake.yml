@@ -56,7 +56,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: KaroliniRPedrozo
-          file: profile/trophy.svg
+          output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commitar cards gerados
