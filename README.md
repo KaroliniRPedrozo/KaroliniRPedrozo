@@ -93,8 +93,6 @@ Programadora de software em consolidação e designer de sistemas, focada em bac
   <img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="165" />
   <br>
   <img src="https://streak-stats.demolab.com?user=KaroliniRPedrozo&theme=aura&hide_border=false" alt="Streak" height="165" />
-  <br><br>
-  <img src="./profile/trophy.svg" alt="Trophies" />
 </div>
 
 ---
