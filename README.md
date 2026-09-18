@@ -102,7 +102,11 @@ Programadora de software em consolidação e designer de sistemas, focada em bac
 ### 🐍 Atividade de contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KaroliniRPedrozo/KaroliniRPedrozo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaroliniRPedrozo/KaroliniRPedrozo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaroliniRPedrozo/KaroliniRPedrozo/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KaroliniRPedrozo/KaroliniRPedrozo/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 > 💡 Gerada automaticamente pelo workflow `.github/workflows/snake.yml` incluído neste pacote — veja as instruções de instalação abaixo.
