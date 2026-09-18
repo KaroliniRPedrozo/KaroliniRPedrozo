@@ -107,8 +107,6 @@ Programadora de software em consolidação e designer de sistemas, focada em bac
   </picture>
 </div>
 
-> 💡 Gerada automaticamente pelo workflow `.github/workflows/snake.yml` incluído neste pacote — veja as instruções de instalação abaixo.
-
 ---
 
 ### 🤝 Vamos conversar?
