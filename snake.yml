@@ -1,0 +1,61 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # roda a cada 12h
+  workflow_dispatch:         # permite rodar manualmente pelo botão "Run workflow"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/**"        # evita loop: commits nessa pasta não re-disparam o workflow
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # --- Snake de contribuições (branch "output") ---
+      - name: Gerar snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: KaroliniRPedrozo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publicar snake na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- Cards de estatísticas, gerados localmente (sem depender do Vercel público) ---
+      - name: Gerar card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true"
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar card de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=KaroliniRPedrozo&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commitar cards gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualiza cards do perfil" || exit 0
+          git push
